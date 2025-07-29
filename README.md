@@ -36,7 +36,7 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 ### 🔹 Job Portal – MERN Stack, Tailwind, Redux Toolkit  
 **A full-featured platform with dashboards for job seekers and recruiters.**
 
-![Job Portal ](./assets/job-portal.gif)
+![Job Portal Demo](./assets/job-portal.gif)
 
 - 🧾 JWT authentication & protected routes  
 - 🖼️ Profile/image uploads via **Cloudinary**  
@@ -49,7 +49,7 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 ### 🔹 MyRoomMate – MERN, Tailwind, Redux Toolkit, Socket.io  
 **Matchmaking platform for students based on lifestyle preferences.**
 
-![MyRoomMate Screenshot](./assets/my-roommate.gif)
+![MyRoomMate Demo](./assets/my-roommate.gif)
 
 - 🧠 Matching algorithm with filters & preferences  
 - 💬 Real-time chat for matched users via **Socket.io**  
@@ -62,7 +62,7 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 ### 🔹 Airbnb Lite – Node.js, Express, EJS, MongoDB  
 **Airbnb-inspired app with full CRUD functionality and dynamic listing pages.**
 
-![Airbnb Lite Screenshot](./assets/airbnb)
+![Airbnb Lite Demo](./assets/airbnb.gif)
 
 - 🧳 Server-side rendering with **EJS templates**  
 - 🔁 Full CRUD on property listings  
