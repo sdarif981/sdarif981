@@ -36,7 +36,7 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 ### 🔹 Job Portal – MERN Stack, Tailwind, Redux Toolkit  
 **A full-featured platform with dashboards for job seekers and recruiters.**
 
-![Job Portal Screenshot](.assets/job-portal.gif)
+![Job Portal ](.assets/job-portal.gif)
 
 - 🧾 JWT authentication & protected routes  
 - 🖼️ Profile/image uploads via **Cloudinary**  
