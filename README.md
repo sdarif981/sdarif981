@@ -42,7 +42,7 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 - 🖼️ Profile/image uploads via **Cloudinary**  
 - 🎯 Scalable backend architecture using Express
 
-🔗 [Live Demo](https://job-portal-xi-opal.vercel.app/) • 💻 [GitHub Repo](https://github.com/sdarif981/job-portal)
+🔗 [Live Site](https://job-portal-xi-opal.vercel.app/) • 💻 [GitHub Repo](https://github.com/sdarif981/job-portal)
 
 ---
 
@@ -55,7 +55,7 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 - 💬 Real-time chat for matched users via **Socket.io**  
 - 🧩 Responsive design and intuitive search interface
 
-🔗 [Live Demo](https://my-roommate-zeta.vercel.app/) • 💻 [GitHub Repo](https://github.com/sdarif981/MyRoommate)
+🔗 [Live Site](https://my-roommate-zeta.vercel.app/) • 💻 [GitHub Repo](https://github.com/sdarif981/MyRoommate)
 
 ---
 
