@@ -49,7 +49,7 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 ### 🔹 MyRoomMate – MERN, Tailwind, Redux Toolkit, Socket.io  
 **Matchmaking platform for students based on lifestyle preferences.**
 
-![MyRoomMate Screenshot](./assets/my-roommate.png)
+![MyRoomMate Screenshot](./assets/my-roommate.gif)
 
 - 🧠 Matching algorithm with filters & preferences  
 - 💬 Real-time chat for matched users via **Socket.io**  
