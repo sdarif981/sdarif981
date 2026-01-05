@@ -59,17 +59,15 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 
 ---
 
-### 🔹 Airbnb Lite – Node.js, Express, EJS, MongoDB  
-**Airbnb-inspired app with full CRUD functionality and dynamic listing pages.**
+### 🔹 SignSure – MERN Stack, Cryptography, Tailwind, Zustand, Shadcn UI  
+**A secure digital signature platform featuring client-side encryption and Zero-Knowledge privacy.**
 
-![Airbnb Lite Demo](./assets/airbnb.gif)
+- [cite_start]🔐 **Zero-Knowledge Privacy:** Architected a client-side cryptographic workflow where private keys are generated and stored locally, ensuring Zero-Knowledge privacy.  
+- [cite_start]✍️ **Applied Cryptography:** Implemented ECDSA for digital signatures and AES-256 for encrypted local storage, protecting user identities from server breaches.  
+- [cite_start]🛡️ **Tamper-Proof APIs:** Built tamper-proof REST APIs that verify signature validity without accessing user private keys, validated across 100+ edge cases.  
+- [cite_start]🚀 **Secure Pipeline:** Designed a secure document upload pipeline that maintains data integrity throughout the verification lifecycle.
 
-- 🧳 Server-side rendering with **EJS templates**  
-- 🔁 Full CRUD on property listings  
-- 🗃️ MongoDB + Mongoose for data management
-
-💻 [GitHub Repo](https://github.com/sdarif981/airbnbcl)
-
+💻 [GitHub Repo](https://github.com/sdarif981/SignSure) | 🌐 [Live Site](https://signsure-live-link.com)
 ---
 
 ### 🔸 Other Projects
