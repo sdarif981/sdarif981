@@ -62,6 +62,8 @@ I'm a Full Stack Developer with a passion for building scalable, secure, and use
 ### 🔹 SignSure – MERN Stack, Cryptography, Tailwind, Zustand, Shadcn UI  
 **A secure digital signature platform featuring client-side encryption and Zero-Knowledge privacy.**
 
+![SignSure Demo](./assets/SignSure.gif)
+
 - 🔐 **Zero-Knowledge Privacy:** Architected a client-side cryptographic workflow where private keys are generated and stored locally, ensuring Zero-Knowledge privacy.  
 - ✍️ **Applied Cryptography:** Implemented ECDSA for digital signatures and AES-256 for encrypted local storage, protecting user identities from server breaches.  
 - 🛡️ **Tamper-Proof APIs:** Built tamper-proof REST APIs that verify signature validity without accessing user private keys, validated across 100+ edge cases.  
