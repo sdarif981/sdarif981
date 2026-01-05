@@ -1,107 +1,138 @@
-# 👋 Hey, I'm Arif Syed
+# 🚀 Arif Syed | Backend-Focused Full Stack Developer
 
-**Full Stack Web Developer** | MERN Stack | Problem Solver 
+**MERN Stack • Secure Systems • Real-Time Architectures • Problem Solver**
 
-📍 Hyderabad, Telangana  
-📧 sdarif981@gmail.com | 📞 +91-9391612261  
+📍 Hyderabad, India  
+📧 **sdarif981@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/syedarif981/) • [GitHub](https://github.com/sdarif981) • [LeetCode](https://leetcode.com/u/sdarif981/)
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a Full Stack Developer with a passion for building scalable, secure, and user-centric web applications. I specialize in the **MERN stack**, with strong proficiency in **JavaScript**, **C++**, and backend development. I've tackled **400+ DSA problems** across LeetCode and GFG and secured **2nd place** in a national-level hackathon.
+I’m a **backend-driven Full Stack Developer** passionate about building **secure, scalable, and real-time systems**.
 
-### ⚡ Key Highlights
-- 🔐 JWT authentication, role-based access, secure APIs
-- 💬 Real-time chat with **Socket.io**
-- ⚙️ Scalable Express.js backends and MongoDB integration
-- 🧠 Strong foundation in Data Structures and Algorithms
+I specialize in:
+- Designing **robust APIs & backend architectures**
+- Implementing **authentication, RBAC, and cryptography**
+- Building **real-time systems using Socket.IO**
+- Solving complex problems with **strong DSA fundamentals**
+
+I’ve solved **500+ DSA problems**, giving me a system-level approach to backend engineering and performance optimization.
+
+---
+
+## ⚡ What I Bring to the Table
+
+- 🔐 **Security-First Backend Design** (JWT, RBAC, AES-256, ECDSA)
+- 💬 **Real-Time Systems** (Chats, Events, Notifications)
+- ⚙️ **Scalable MERN Architectures**
+- 🧠 **Strong DSA & Problem-Solving Mindset**
+- 🚀 **Production-Ready Code & Clean APIs**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, JavaScript, Java, Python (Beginner), C  
-**Frontend:** React.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3, Vite  
-**Backend:** Node.js, Express.js, JWT, REST APIs  
-**Database:** MongoDB, Mongoose, SQL  
-**Tools & Platforms:** Git, GitHub, Postman, Cloudinary, VS Code  
-**Practices:** Version Control, Clean Code, Problem Solving
+### 🔤 Languages
+`C++` • `JavaScript (ES6+)` • `Java`
+
+### 🎨 Frontend
+`React.js` • `Redux Toolkit` • `Zustand` • `Tailwind CSS` • `HTML5` • `CSS3`
+
+### ⚙️ Backend
+`Node.js` • `Express.js` • `REST APIs` • `JWT` • `Socket.IO`
+
+### 🗄️ Databases
+`MongoDB` • `Mongoose` • `SQL`
+
+### 🧰 Tools & Platforms
+`Git` • `GitHub` • `Postman` • `VS Code` • `Cloudinary`
+
+### 📚 Core Concepts
+`DSA` • `RBAC` • `Applied Cryptography (AES, ECDSA)` • `System Design`
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔹 Job Portal – MERN Stack, Tailwind, Redux Toolkit  
-**A full-featured platform with dashboards for job seekers and recruiters.**
+### 🔹 **SignSure** — Secure Digital Signature Platform  
+**MERN • Cryptography • Tailwind • Zustand • Shadcn UI**
 
-![Job Portal Demo](./assets/job-portal.gif)
+![SignSure Demo](./assets/sign-sure.gif)
 
-- 🧾 JWT authentication & protected routes  
-- 🖼️ Profile/image uploads via **Cloudinary**  
-- 🎯 Scalable backend architecture using Express
+**Key Contributions**
+- 🔐 **Zero-Knowledge Architecture**  
+  Designed a client-side cryptographic workflow ensuring the server never accesses private keys.
+- ✍️ **Applied Cryptography**  
+  Implemented **ECDSA** for signatures and **AES-256** for encrypted local key storage.
+- 🛡️ **Tamper-Proof Verification APIs**  
+  Built APIs that validate document integrity without decrypting user data.
+- 🚀 **Secure Upload Pipeline**  
+  Ensured document integrity across the entire verification lifecycle.
 
-🔗 [Live Site](https://job-portal-xi-opal.vercel.app/) • 💻 [GitHub Repo](https://github.com/sdarif981/job-portal)
+🔗 [Live Site](https://signsure-live-link.com) • 💻 [GitHub](https://github.com/sdarif981/SignSure)
 
 ---
 
-### 🔹 MyRoomMate – MERN, Tailwind, Redux Toolkit, Socket.io  
-**Matchmaking platform for students based on lifestyle preferences.**
+### 🔹 **MyRoomMate** — Real-Time Matchmaking Platform  
+**MERN • Tailwind • Redux Toolkit • Socket.IO**
 
 ![MyRoomMate Demo](./assets/my-roommate.gif)
 
-- 🧠 Matching algorithm with filters & preferences  
-- 💬 Real-time chat for matched users via **Socket.io**  
-- 🧩 Responsive design and intuitive search interface
+**Key Contributions**
+- 🧠 Built a **preference-based matching algorithm**
+- 💬 Implemented **real-time chat** using Socket.IO
+- 📱 Fully responsive UI with intuitive search & filters
 
-🔗 [Live Site](https://my-roommate-zeta.vercel.app/) • 💻 [GitHub Repo](https://github.com/sdarif981/MyRoommate)
+🔗 [Live Site](https://my-roommate-zeta.vercel.app/) • 💻 [GitHub](https://github.com/sdarif981/MyRoommate)
 
 ---
 
-### 🔹 SignSure – MERN Stack, Cryptography, Tailwind, Zustand, Shadcn UI  
-**A secure digital signature platform featuring client-side encryption and Zero-Knowledge privacy.**
+### 🔹 **Job Portal** — Role-Based Hiring Platform  
+**MERN • Tailwind • Redux Toolkit**
 
-![SignSure Demo](./assets/SignSure.gif)
+![Job Portal Demo](./assets/job-portal.gif)
 
-- 🔐 **Zero-Knowledge Privacy:** Architected a client-side cryptographic workflow where private keys are generated and stored locally, ensuring Zero-Knowledge privacy.  
-- ✍️ **Applied Cryptography:** Implemented ECDSA for digital signatures and AES-256 for encrypted local storage, protecting user identities from server breaches.  
-- 🛡️ **Tamper-Proof APIs:** Built tamper-proof REST APIs that verify signature validity without accessing user private keys, validated across 100+ edge cases.  
-- 🚀 **Secure Pipeline:** Designed a secure document upload pipeline that maintains data integrity throughout the verification lifecycle.
+**Key Contributions**
+- 🔐 JWT-based authentication & protected routes
+- 🎯 Role-based dashboards (Recruiter / Candidate)
+- 🖼️ Image & resume uploads using Cloudinary
+- ⚙️ Scalable Express.js backend architecture
 
-🔗 [Live Site](https://signsure-live-link.com) • 💻 [GitHub Repo](https://github.com/sdarif981/SignSure)
+🔗 [Live Site](https://job-portal-xi-opal.vercel.app/) • 💻 [GitHub](https://github.com/sdarif981/job-portal)
 
 ---
 
 ### 🔸 Other Projects
-- 📺 **YouTube UI Clone** – Static clone built with HTML/CSS
+- 📺 **YouTube UI Clone** — Pixel-perfect static UI using HTML & CSS
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 **LeetCode Rating:** 1663 (Top 16% globally)  
-- ✅ Solved **380+ problems** on LeetCode & **100+ on GFG**  
-- 🥈 **2nd Place**, GreenBiz’23 Hackathon – GNITS, Hyderabad
+- 🧠 **LeetCode Rating:** 1676 (**Top 14% globally**)
+- ✅ Solved **450+ problems** on LeetCode & **100+ on GFG**
+- 🥈 **2nd Place** — GreenBiz’23 Hackathon (GNITS, Hyderabad)
 
 ---
 
-## 🗣️ Languages
-
+## 🌍 Languages
 - English  
 - Hindi  
 - Telugu  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
-I'm always open to collaborations, freelance opportunities, or just a chat about tech!
+I’m open to:
+- Backend / Full Stack roles
+- Freelance projects
+- Startup collaborations
+- Deep tech discussions 🚀
 
-📧 sdarif981@gmail.com | 📞 +91-9391612261  
+📧 **sdarif981@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/syedarif981/) • [GitHub](https://github.com/sdarif981) • [LeetCode](https://leetcode.com/u/sdarif981/)
 
----
-
-⭐ If you like my work, feel free to ⭐ my repos or connect!
-
+⭐ *If you find my work interesting, consider starring my repositories!*
