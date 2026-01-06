@@ -1,4 +1,4 @@
-# 🚀 Arif Syed | Backend-Focused Full Stack Developer
+# 🚀 Syed Arif | Backend-Focused Full Stack Developer
 
 **MERN Stack • Secure Systems • Real-Time Architectures • Problem Solver**
 
